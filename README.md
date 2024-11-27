@@ -1,1 +1,2 @@
 # This is a recipes website for different, diverse recipes. I will have demonstrated, through the creation of this website, how to create a website with HTML and maybe a little CSS. It will be pretty basic HTML, but novel nonetheless. 
+## Re reflect on this introduction and information at the end of the project.
